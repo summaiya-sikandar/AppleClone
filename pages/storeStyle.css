@@ -1,0 +1,112 @@
+body{
+    background-color: whitesmoke !important;
+}
+.navStore_{
+    position: none !important;
+    width: 100%;
+    text-align: center;
+}
+.navItem_ ,.icon{
+    background-color: whi;
+    font-size: small;
+    padding: 2px 25px 2px 10px;
+    display: inline;
+    text-align: center;
+    color: black \;
+}
+.pages{
+    text-decoration: none;
+    color: black;
+}
+.belowNavText{
+    color: grey;
+}
+.store{
+    color: black !important;
+}
+.belowNav{
+    padding-right: 40px;
+}
+.image{
+    height: 150px;
+    width: 150px;
+    padding: 10px 30px 20px 30px;
+}
+.imageCaption{
+    padding: 10px 30px 20px 30px;
+
+}
+.images,.imagesName{
+    padding: 20px 150px 20px 0px;
+}
+
+.side{
+    padding: 20px 150px 20px 150px;
+    display: flex;
+}
+.nextpart, .Quick ,.buttons{
+    padding: 20px 150px 20px 150px;
+
+}
+.footerButton{
+    background-color:rgba(224, 220, 220, 0.897) ;
+    margin: 4px;
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+}
+.cardsFlex{
+    display: flex;
+}
+.card{
+    padding: 5px;
+}
+.green{
+    color: rgb(70, 185, 70);
+}
+.red{
+    color: red;
+}
+.redish{
+    color:rgb(211, 75, 12);
+}
+.card-text{
+    padding: 10px;
+    font-size: large;
+}
+.footer{
+    margin-top: 5px;
+    background-color: whitesmoke;
+    
+}
+.insideText,.last{
+    color: rgb(77, 74, 74);
+    padding: 0px 150px 0px 150px;
+    font-size: 14px;
+}
+.footerlist{
+    list-style: none;
+}
+.list{
+    display: flex;
+    padding: 2px 150px 2px 150px;
+    font-size: 14px;
+}
+.underline{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

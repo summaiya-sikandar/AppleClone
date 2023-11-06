@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+}
+.background , .partTwo{
+    text-align: center;
+}
+.nav{
+    position: fixed;
+    background-color: black;
+    opacity: 0.7;
+    width: 100%;
+    text-align: center;
+}
+.navStore{
+    background-color: black;
+    opacity: 0.7;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    position: sticky;
+
+}
+navbar > ul {
+    background-color: black;
+    padding: 4px;
+
+}
+.navItem ,.icon{
+    font-size: small;
+    padding: 2px 25px 2px 10px;
+    display: inline;
+    color: white;
+    text-align: center;
+}
+.pages{
+    text-decoration: none;
+    color: black;
+}
+.background{
+    background-image: url(./images/homeBackground.png) ;
+    width: 100%;
+    height: 500px;
+}
+.background2{
+    background-image: url(./images/iPhone14.webp) ;
+    width: 100%;
+    height: 400px;
+    margin: 4px;
+}
+.background3{
+    background-image: url(./images/HomePod.webp) ;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 4px;
+}
+.background4{
+    width: 48%;
+    background-image: url(./images/watch.jpg) ;
+    height: 400px;
+    margin-bottom: 4px;
+}
+.background5{
+    background-image: url(./images/watch2.jpg) ;
+    width: 48%;
+    height: 400px;
+    margin-bottom: 4px;
+}
+.spaces , .partThree{
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.spacesExtra{
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+
+}
+.backgroundLink{
+    text-decoration: none;
+    font-size: 20px;
+}
+.backgroundLink:hover{
+    text-decoration: underline;
+}
+
+.partTwo{
+    font-size:40px ;
+    padding-top: 40px;
+    font-weight: bold;
+    color: black;
+
+}
+.parts{
+    display: flex;
+}
+.footer{
+    margin-top: 5px;
+    background-color: whitesmoke;
+    
+}
+.insideText,.last{
+    color: rgb(77, 74, 74);
+    padding: 0px 150px 0px 150px;
+    font-size: 14px;
+}
+.footerlist{
+    list-style: none;
+}
+.list{
+    display: flex;
+    padding: 2px 150px 2px 150px;
+    font-size: 14px;
+}
+.underline{
+    text-decoration: underline;
+}
